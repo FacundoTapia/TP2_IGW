@@ -1,0 +1,21 @@
+body {
+    background-color: #4da16a;
+    font-family: 'Roboto', sans-serif;
+}
+
+#tableAlta {
+    border-style: outset;
+}
+
+.labelAlta {
+    text-align: left;
+}
+
+#tableAlta td {
+    width: 50%;
+    align-self: center;
+}
+
+h1, h2 {
+    text-align: center;
+}
